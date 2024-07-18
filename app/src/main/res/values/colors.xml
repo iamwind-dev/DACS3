@@ -7,4 +7,33 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="textColor">
+        #2A2A2A
+    </color>
+    <color name="secondTextColor">
+        #8D94A2
+    </color>
+    <color name="thirdTextColor">
+        #1C9FE2
+    </color>
+    <color name="categoryBgColor">
+        #F6F8FA
+    </color>
+
+    <color name="backgroundColor">
+        #FFFFFF
+    </color>
+    <color name="primaryColor">
+        #1C9FE2
+
+    </color>
+    <color name="reviewBodyBg">
+        #F6F8FA
+    </color>
+    <color name="yellow">
+        #F8E545
+    </color>
+    <color name="red">
+        #FF2828
+    </color>
 </resources>
